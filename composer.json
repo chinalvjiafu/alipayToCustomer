@@ -1,5 +1,5 @@
 {
-    "name": "chinalvjiafu/alipayToCustomer",
+    "name": "chinalvjiafu/alipaytocustomer",
     "description": "阿里云单笔转账到支付宝",
     "keywords": ["alipay","pay","sdk"],
     "license": "MIT",
@@ -8,15 +8,15 @@
         {
             "name": "chinalvjiafu",
             "email": "chinalvjiafu@163.com",
-            "homepage": "https://github.com/chinalvjiafu/alipayToCustomer"
+            "homepage": "https://github.com/chinalvjiafu/alipaytocustomer"
         }
     ],
     "require": {},
     "minimum-stability": "dev",
     "autoload": {
-    "psr-4": {
-            "chinalvjiafu\\alipayToCustomer\\": "src"
-        }
+        "psr-4": {
+                    "chinalvjiafu\\alipaytocustomer\\": "src"
+                }
     }
 }
 
