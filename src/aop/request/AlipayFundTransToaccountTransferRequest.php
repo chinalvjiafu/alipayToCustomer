@@ -5,7 +5,7 @@
  * @author auto create
  * @since 1.0, 2019-03-21 21:31:09
  */
-namespace Alipay\aop\request;
+namespace chinalvjiafu\alipaytocustomer\Alipay\aop\request;
 class AlipayFundTransToaccountTransferRequest
 {
 	/** 
